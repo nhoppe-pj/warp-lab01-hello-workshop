@@ -7,3 +7,6 @@ Konsolowa aplikacja C#/.NET utworzona na laboratorium.
 ```text
 dotnet run
 ```
+
+## Kontakt
+Autor: Student
